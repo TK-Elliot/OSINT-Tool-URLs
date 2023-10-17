@@ -1,4 +1,4 @@
-### Generate a random name and profile
+### Generate a random name and his/her profile
 
     https://www.fakenamegenerator.com
     
