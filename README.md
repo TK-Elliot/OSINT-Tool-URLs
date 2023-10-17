@@ -2,7 +2,7 @@
 
     https://www.fakenamegenerator.com
     
-### Generate a picture of a person that does't exist
+### Generate a picture of the person that does't exist
 
     https://thispersondoesnotexist.com/
    
